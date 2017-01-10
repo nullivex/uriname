@@ -2,7 +2,7 @@
   "author": "Nullivex <bryan@nullivex.com>",
   "name": "uriname",
   "description": "URI Safe Name from string Node.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://www.nullivex.com/uriname",
   "repository": {
     "type": "git",
