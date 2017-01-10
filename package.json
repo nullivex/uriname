@@ -1,0 +1,30 @@
+{
+  "author": "Nullivex <bryan@nullivex.com>",
+  "name": "uriname",
+  "description": "URI Safe Name from string Node.js",
+  "version": "0.1.0",
+  "homepage": "https://www.nullivex.com/uriname",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nullivex/uriname.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "uri name",
+    "uri shortname",
+    "uri component",
+    "string to uri"
+  ],
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "chai": "3.5.x",
+    "mocha": "3.2.x",
+    "request": "2.79.x"
+  }
+}
