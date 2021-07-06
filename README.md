@@ -42,6 +42,10 @@ console.log(uris) ['something-neat','really-nice']
 
 ## Changelog
 
+### 0.3.1
+* Update dependencies
+* Update package json
+
 ### 0.3.0
 * Update the following dependencies
   * chai      3.5.x  →   4.2.x
